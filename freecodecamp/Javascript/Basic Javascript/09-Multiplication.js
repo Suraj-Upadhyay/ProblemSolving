@@ -1,0 +1,1 @@
+var myProduct = 8 * 10;
