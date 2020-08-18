@@ -1,6 +1,6 @@
 # ProblemSolving
 
-I will use this repository as a dumping yard for all of my solutions to problems I will find or have found in competitive programming websites -
+I will use this repository as a dumping yard for all of my solutions to problems I will find or have found in competitive programming and skill-development websites -
 
 1. [HackerRank](https://www.hackerrank.com)
 
@@ -17,6 +17,8 @@ I will use this repository as a dumping yard for all of my solutions to problems
 7. [freeCodeCamp](https://www.freecodecamp.org/learn/)
 
 8. [GeeksForGeeks](https://www.geeksforgeeks.org)
+
+9. [Coursera](https://www.coursera.org)
 
 The solutions will be categorized by topics and will be uploaded along with the questions and explanations.
 
