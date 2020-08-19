@@ -1,0 +1,9 @@
+body {
+    display: flex;
+}
+
+@media (max-width: 200px) {
+    body {
+        background-color: blue;
+    }
+}
